@@ -1,1 +1,1 @@
-# Reuse_structure
+# Reuse_structure (Template for any project)
